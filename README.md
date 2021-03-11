@@ -2,7 +2,7 @@
 efi files for big sur hackintosh opencore on hp probook 450 g5
 
 
-### PLEASE READ THIS AND USE THE RELEASE VERSIONS I WROTE WHATS WORK AND WHAT DOSENT THERE
+### PLEASE READ THIS AND USE THE RELEASE VERSIONS, I WROTE WHATS WORK AND WHAT DOSENT THERE
 - in the future there may be more than 1 release so 👀 look there
 
 use gensmbios and fill up the respective fields in config.plist
